@@ -134,4 +134,4 @@ function Nord:Notify(Title, Message, Type, Duration)
         Tween(Frame, 0.25, "Quint", "Out", {BackgroundTransparency = 1}); wait(0.25); Frame:Destroy();
     end)()
 end
-Nord:Notify(nil, "DevHub worked successfully!", "success", 3);
+Nord:Notify(nil, "DevHub executed successfully!", "success", 3);
