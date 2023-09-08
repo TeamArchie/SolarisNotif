@@ -1,6 +1,6 @@
     Fluent:Notify({
         Title = "Vehicle spawned correctly!",
-        Content = "bike has been spawned correctly!",
+        Content = "Your bike has been spawned correctly!",
         SubContent = "", -- Optional
         Duration = 4 -- Set to nil to make the notification not disappear
     })
