@@ -2,5 +2,5 @@
         Title = "Vehicle spawned correctly!",
         Content = "bike has been spawned correctly!",
         SubContent = "", -- Optional
-        Duration = 10 -- Set to nil to make the notification not disappear
+        Duration = 4 -- Set to nil to make the notification not disappear
     })
